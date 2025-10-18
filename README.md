@@ -45,7 +45,12 @@ Finds words in common
 
 Returns all words sorted alphabetically (without duplicates)
 
-Uses Set<String> and sorted() for clean set operations and output.
+```java
+Only A: [a, hello, is, test, this]
+Only B: [and, more, of, tests, text]
+Common: [world]
+All sorted: [a, and, hello, is, more, of, test, tests, text, this, world]
+```
 
 🚀 How to Run
 Clone the repo:
