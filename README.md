@@ -21,6 +21,7 @@ css
 Copiar código
 [("apples", 25.0), ("oranges", 24.0)]
 ```
+---
 ### 2. ⏰ Campanadas
 Reads a start and end time (HH:mm) from the console and calculates how many times a bell rings in that interval.
 Bells ring at minutes 0, 15, 30, and 45 of each hour.
@@ -36,6 +37,7 @@ Output:
 ```
 2 campanadas
 ```
+---
 ### 3. 📚 Vocabulary Comparison with Sets
 Given two text strings, this program:
 
@@ -51,16 +53,40 @@ Only B: [and, more, of, tests, text]
 Common: [world]
 All sorted: [a, and, hello, is, more, of, test, tests, text, this, world]
 ```
+---
+### 4. ➕ Integer Sum with Swing
 
-🚀 How to Run
-Clone the repo:
+A simple graphical interface that allows users to add two integer numbers.
+If a non-numeric value is entered, an error message is displayed.
+
+Features:
+
+- Built with JFrame, JTextField, JButton, and JLabel
+
+- Uses a lambda expression for the ActionListener event
+
+- Includes exception handling with NumberFormatException for validation
+
+Example (visual):
+```java
+[ 4 ] + [ 6 ] = 10
 ```
-git clone https://github.com/yourusername/java-logic-exercises.git
+
+If invalid input is entered:
+```java
+You must enter an integer number.
 ```
-Open the project in IntelliJ (or any Java IDE)
+---
 
-Run the desired exercise .java file from the main method
+### 🚀 How to Run
+1. Clone the repo:
+```
+git clone https://github.com/serxa92/JavaExercises.git
+```
+2. Open the project in IntelliJ (or any Java IDE)
+
+3. Run the desired exercise .java file from the main method
 
 
-
+---
 Feel free to contribute or add new logic challenges! 
