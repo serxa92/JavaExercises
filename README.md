@@ -87,23 +87,7 @@ git clone https://github.com/serxa92/JavaExercises.git
 2. Open the project in IntelliJ (or any Java IDE)
 
 3. Run the desired exercise .java file from the main method
-=======
->>>>>>> 2425c11040250ab2c83ac1ced311eb00a95e2d37
-
-### 🚀 How to Run
-1. Clone the repo:
-```
-git clone https://github.com/serxa92/JavaExercises.git
-```
-2. Open the project in IntelliJ (or any Java IDE)
-
-3. Run the desired exercise .java file from the main method
-
-<<<<<<< HEAD
----
-Feel free to contribute or add new logic challenges! 
-=======
 
 ---
 Feel free to contribute or add new logic challenges! 
->>>>>>> 2425c11040250ab2c83ac1ced311eb00a95e2d37
+
