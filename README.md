@@ -77,7 +77,6 @@ If invalid input is entered:
 You must enter an integer number.
 ```
 ---
-<<<<<<< HEAD
 
 ### 🚀 How to Run
 1. Clone the repo:
